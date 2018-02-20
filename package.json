@@ -1,6 +1,6 @@
 {
-  "name": "hubot-flowdock",
-  "version": "0.7.8",
+  "name": "hubot-flowdock-resin",
+  "version": "0.8.0",
   "author": {
     "name": "Flowdock",
     "url": "https://www.flowdock.com/"
@@ -21,6 +21,10 @@
     {
       "name": "Otto Vehvilainen",
       "email": "vehvis@flowdock.com"
+    },
+    {
+      "name": "Andrew Lucas",
+      "email": "sqweelygig@gmail.com"
     }
   ],
   "keywords": [
